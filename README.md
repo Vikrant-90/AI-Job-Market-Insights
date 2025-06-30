@@ -15,7 +15,7 @@ This dashboard is designed to help hiring teams, analysts, and decision-makers u
 
 ## 🖼️ Dashboard Preview
 
-[![Dashboard Preview](SalesF2.png)](SalesF2.png)
+[![Dashboard Preview](ai_jobs_insights.png)](ai_jobs_insights.png)
 
 ---
 
