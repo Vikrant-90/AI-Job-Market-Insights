@@ -8,8 +8,8 @@ This dashboard is designed to help hiring teams, analysts, and decision-makers u
 
 ## 📄 Files Included
 
-- `AI_JOB_INSIGHTS.pdf` – PDF report with visual-wise explanations, questions, and insights
-- `ai_jobs_insights.png` – Dashboard screenshot (AI Job Market dashboard)
+- `NEW_AI_JOBS_INSIGHTS.pdf` – PDF report with visual-wise explanations, questions, and insights
+- `302_pl.png` – Dashboard screenshot (AI Job Market dashboard)
 
 ---
 
